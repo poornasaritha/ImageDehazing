@@ -123,6 +123,12 @@ This project provides a powerful, local tool for removing haze from images using
   - `best_model_combined.pth`: The model with the best combined score (recommended for general use).
 - Use any of these `.pth` files with the `inference.py` script.
 
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+© 2026 Eswar Vutukuri, Vemuri Charitha, Vakada Poorna Saritha
+
 ## Acknowledgments
 
 - Thanks to the creators of **PyTorch** for the incredible deep learning framework.
