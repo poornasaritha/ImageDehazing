@@ -134,4 +134,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 - Thanks to the creators of **PyTorch** for the incredible deep learning framework.
 - This project is based on the **U-Net** architecture proposed by Ronneberger et al. and the **Squeeze-and-Excitation** block by Hu et al.
 - Gratitude to the providers of the **RESIDE** dataset for making this research possible.
+- Thanks to **Kaggle** for helping us train our models required for this project.
 - Special thanks to you for your interest in this project
